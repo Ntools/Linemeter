@@ -1,0 +1,9 @@
+This is the linemeter for fishing line.
+
+GUI support program is  "Anjuta http://anjuta.org/"
+
+Able to compile on the Anjuta IDE with libusb.
+
+J2-0 ---+
+          Potention meter
+J2-1 ---+ 
